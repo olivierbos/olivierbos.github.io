@@ -1,0 +1,93 @@
+:root {
+  --global-footer-bg-color: #ffffff;
+  --global-footer-text-color: #666666;
+  --global-footer-link-color: #444444;
+}
+
+footer.fixed-bottom,
+footer.sticky-bottom {
+  background-color: #ffffff !important;
+  /* border-top: 1px solid #d9d9d9;*/
+    border-top: none !important;
+  box-shadow: none !important;
+}
+
+#navbar {
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+:root {
+  --global-footer-bg-color: #ffffff;
+  --global-footer-text-color: #666666;
+  --global-footer-link-color: #444444;
+--global-hover-color: #0076df;/*#2869A9 2084dd*/
+  --global-theme-color: #0076df;
+}
+
+.post-title,
+.post-title .font-weight-bold {
+  font-weight: 300 !important;
+}
+
+.publications ol.bibliography li .author > em {
+  border-bottom: none !important;
+}
+
+.other-writing {
+  margin-bottom: 1.5rem;
+}
+
+.other-writing .title {
+  font-weight: bolder;
+}
+
+.other-writing .links a.btn {
+  color: var(--global-text-color);
+  border: 1px solid var(--global-text-color);
+  padding: 0.25rem 1rem;
+  margin-left: 0;
+}
+
+.other-writing .links a.btn:hover {
+  color: var(--global-theme-color);
+  border-color: var(--global-theme-color);
+}
+
+/*:root {
+  --global-theme-color: #3080CF;
+--global-hover-color: #2869A9;}*/
+
+/*#205589, #4682B4, #6495ED, 2869A9 or 3080CF?*/
+/*:root {
+  --global-footer-bg-color: #ffffff;
+  --global-footer-text-color: #666666;
+  --global-footer-link-color: #444444;
+}
+
+footer.fixed-bottom,
+footer.sticky-bottom {
+  background-color: #ffffff !important;
+  border-top: none !important;
+  box-shadow: none !important;
+  position: relative;
+}
+
+footer.fixed-bottom::before,
+footer.sticky-bottom::before {
+  content: "";
+  display: block;
+  width: calc(100% - 30px);
+  max-width: 930px;
+  margin: 0 auto;
+  border-top: 1px solid #e5e5e5;
+}*/
+
+
+/*a {
+  color: #205589;
+}
+
+a:hover {
+  color: #2869A9;
+}*/
