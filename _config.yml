@@ -9,9 +9,8 @@ last_name: Bos
 contact_note: >
 
 description:  >
-    Personal academic website of Olivier Bos, Professor of Economics at ENS Paris-Saclay, Centre for Economics at Paris-Saclay.
-    Research in artificial intelligence, political economy, auctions and mechanism design.
-
+    I am Professor of Economics at <a href='https://ens-paris-saclay.fr/en'>ENS Paris-Saclay</a> and Director of the <a href='https://www.ceps-paris-saclay.fr/'>Centre for Econpomics at Paris-Saclay</a>. My research interests are in artificial intelligence, political economy, auctions and mechanism design.
+    
 footer_text: >
     <br><a href='https://ens-paris-saclay.fr/en'>ENS Paris-Saclay</a>, Dept. of Humanities & Social Sciences, <a href='https://www.ceps-paris-saclay.fr/'>Centre for Economics at Paris-Saclay</a>. 
 # Powered by <a href='http://jekyllrb.com/'>Jekyll</a>  with <a href='https://github.com/alshedivat/al-folio'>al-folio</a> theme. Hosted by <a href='https://github.com'>GitHub Pages</a>. 
