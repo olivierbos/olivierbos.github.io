@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://olivierbos.github.io/sitemap.xml
