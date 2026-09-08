@@ -2,16 +2,36 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: <!-- Course materials, schedules, and resources for classes taught.-->
 nav: true
-nav_order: 4
-calendar: true
+nav_order: 5
 ---
 
-Under construction.
+ENS Paris-Saclay — Master of Economics
 
-<!--This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Current courses
 
-<!-- {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+**Gender & Politics**  
+M1 · Fall semester
 
-<!--  {% include courses.liquid %} --> 
+<div class="teaching-links">
+  <a href="/assets/pdf/teaching/SyllabusGenderPolitics.pdf" class="btn btn-sm z-depth-0" role="button">Syllabus</a>
+  <a href="https://ecampus.paris-saclay.fr/course/view.php?id=37771" class="btn btn-sm z-depth-0" role="button">eCampus</a>
+</div>
+
+**Market Design**  
+M2 · Fall semester
+
+<div class="teaching-links">
+  <a href="/assets/pdf/teaching/SyllabusMarketDesign.pdf" class="btn btn-sm z-depth-0" role="button">Syllabus</a>
+  <a href="https://ecampus.paris-saclay.fr/course/section.php?id=223765" class="btn btn-sm z-depth-0" role="button">eCampus</a>
+</div>
+
+## Past courses
+
+**Game Theory**  
+Part of *Decision Theory & Game Theory*, M1 · Fall semester, 2021-2025  
+with Xiangyu Qu (previously Nicolas Klein)
+
+<div class="teaching-links">
+  <a href="/assets/pdf/teaching/SyllabusDecisionGames.pdf" class="btn btn-sm z-depth-0" role="button">Syllabus</a>
+</div>

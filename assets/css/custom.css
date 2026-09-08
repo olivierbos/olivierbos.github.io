@@ -54,6 +54,47 @@ footer.sticky-bottom {
   border-color: var(--global-theme-color);
 }
 
+
+.course-entry {
+  margin-bottom: 1.5rem;
+}
+
+/*.teaching-links {
+  display: inline-block;
+  margin-left: 0.5rem;
+}*/
+
+.teaching-links {
+  margin-top: 0.35rem;
+  margin-bottom: 1.5rem;
+}
+
+/*.teaching-links a.btn {
+  color: var(--global-text-color);
+  border: 1px solid var(--global-text-color);
+  padding: 0.2rem 0.7rem;
+  margin-right: 0.2rem;
+}
+
+.teaching-links a.btn:hover {
+  color: var(--global-theme-color);
+  border-color: var(--global-theme-color);
+}*/
+
+
+
+.teaching-links a.btn {
+  color: var(--global-text-color);
+  border: 1px solid var(--global-text-color);
+  padding: 0.25rem 1rem;
+  margin-right: 0.25rem;
+}
+
+.teaching-links a.btn:hover {
+  color: var(--global-theme-color);
+  border-color: var(--global-theme-color);
+}
+
 /*:root {
   --global-theme-color: #3080CF;
 --global-hover-color: #2869A9;}*/
