@@ -16,7 +16,7 @@ selected_papers: true
 social: false
 
 announcements:
-  enabled: false
+  enabled: true
   scrollable: false
   limit: 3
 
