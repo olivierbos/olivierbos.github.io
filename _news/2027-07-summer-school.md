@@ -7,4 +7,4 @@ related_posts: false
 
 **[Paris-Saclay Summer School in Economics.](https://paris-saclay-summerschool.github.io/)**
 
-CEPS is launching its first Summer School in Economics, focusing on *Sustainable Development*. Applications are now open.
+CEPS is launching its first Summer School in Economics, focusing on *Sustainable Development & Inequalities*. Applications are now open.
